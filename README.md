@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Fernando Sirianni! 👋</h1>
+<h1 align="center">Olá! Eu sou o Fernando Sirianni!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Coordenador+Pedag%C3%B3gico;Instrutor+de+Programa%C3%A7%C3%A3o%2C+Cultura+Maker+e+Rob%C3%B3tica;Estudando+Ciberseguran%C3%A7a" alt="Typing SVG" />
@@ -13,6 +13,7 @@
   <img alt="Fernando-Godot" height="30" width="30" src="https://godotengine.org/assets/press/icon_color.png">
   <img alt="Fernando-Scratch" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Scratch.logo.S.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original">
   <img alt="Fernando-Arduino" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img alt="Fernando-MBlock" height="30" width="30" src="https://cdn.shopify.com/s/files/1/0869/7921/5672/files/mBlock_logo_1.png?v=1721185542&width=1440">
 </p>
 
 ---
