@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fernando Sirianni! 👋
 
-
+ 
 - 🔭 Trabalho como Coordenador Pedagógico e Instrutor de Programação.
 - 🌱 Estudando Cibersergurança
 - 😄 Pronouns: ele/dele
