@@ -45,3 +45,9 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=profernandosirianni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=profernandosirianni" alt="Contador de Visitas" />
+</p>
+  
